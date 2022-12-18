@@ -1,0 +1,718 @@
+[09:20:32] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[09:20:32] [Server thread/INFO]: Loading properties
+[09:20:32] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_312]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_312]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_312]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_312]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_312]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_312]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_312]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_312]
+	at nz$2.run(SourceFile:100) [minecraft_server.1.12.2.jar:?]
+[09:20:32] [Server thread/INFO]: Default game type: SURVIVAL
+[09:20:32] [Server thread/INFO]: Generating keypair
+[09:20:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:20:32] [Server thread/INFO]: Using epoll channel type
+[09:20:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:20:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:20:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:20:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:20:32] [Server thread/INFO]: Preparing level "world"
+[09:20:33] [Server thread/INFO]: Loaded 488 advancements
+[09:20:33] [Server thread/INFO]: Preparing start region for level 0
+[09:20:35] [Server thread/INFO]: Preparing spawn area: 0%
+[09:20:36] [Server thread/INFO]: Preparing spawn area: 10%
+[09:20:37] [Server thread/INFO]: Preparing spawn area: 22%
+[09:20:38] [Server thread/INFO]: Preparing spawn area: 48%
+[09:20:39] [Server thread/INFO]: Preparing spawn area: 94%
+[09:20:39] [Server thread/INFO]: Done (6.348s)! For help, type "help" or "?"
+[09:20:45] [Server thread/INFO]: 老色批[/112.6.224.44:15799] logged in with entity id 135 at (-130.89806025010813, 70.0, 20.108302333519813)
+[09:20:45] [Server thread/INFO]: 老色批 joined the game
+[09:23:04] [Server thread/INFO]: 老色批 was slain by Zombie
+[09:34:16] [Server thread/INFO]: 老色批 has made the advancement [Getting an Upgrade]
+[09:40:15] [Server thread/INFO]: 老色批 was shot by Skeleton
+[09:41:01] [Server thread/INFO]: 老色批 was shot by Skeleton
+[09:43:49] [Server thread/INFO]: 老色批 was shot by Skeleton
+[09:53:30] [Server thread/INFO]: 老色批 was blown up by Creeper
+[10:17:34] [Server thread/INFO]: 老色批 was slain by Zombie
+[10:31:42] [Server thread/INFO]: <老色批> nmsl
+[10:31:45] [Server thread/INFO]: <老色批> t
+[10:33:50] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[10:33:50] [Server thread/INFO]: 老色批 left the game
+[12:29:28] [Server thread/INFO]: 老色批[/112.6.224.44:1384] logged in with entity id 113216 at (-126.42728792754676, 70.0, 20.156108141496947)
+[12:29:28] [Server thread/INFO]: 老色批 joined the game
+[12:29:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3001ms behind, skipping 60 tick(s)
+[12:30:37] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[12:30:37] [Server thread/INFO]: 老色批 left the game
+[12:30:39] [Server thread/INFO]: 老色批[/112.6.224.44:1391] logged in with entity id 114258 at (-126.05783647851983, 70.0, 20.600594424120715)
+[12:30:39] [Server thread/INFO]: 老色批 joined the game
+[12:32:48] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[12:32:48] [Server thread/INFO]: 老色批 left the game
+[12:34:43] [Server thread/INFO]: 老色批[/112.6.224.44:1556] logged in with entity id 115926 at (-129.3148755369388, 70.0, 19.62154312649411)
+[12:34:43] [Server thread/INFO]: 老色批 joined the game
+[12:35:16] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[12:35:16] [Server thread/INFO]: 老色批 left the game
+[12:37:07] [Server thread/INFO]: 老色批[/112.6.224.44:28855] logged in with entity id 116294 at (-127.97519535505617, 70.0, 21.920436970474192)
+[12:37:07] [Server thread/INFO]: 老色批 joined the game
+[12:37:59] [Server thread/INFO]: <老色批> t
+[12:42:25] [Server thread/WARN]: 老色批 moved wrongly!
+[13:14:13] [Server thread/INFO]: 老色批 has made the advancement [Isn't It Iron Pick]
+[14:18:40] [Server thread/INFO]: 老色批 has made the advancement [Diamonds!]
+[14:27:48] [Server thread/INFO]: 老色批 drowned
+[14:28:24] [Server thread/INFO]: * 老色批 move
+[14:29:17] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[14:29:17] [Server thread/INFO]: 老色批 left the game
+[14:55:07] [Server thread/INFO]: 老色批[/112.6.224.44:1396] logged in with entity id 216143 at (-118.60294886996091, 62.0, 19.2389084100627)
+[14:55:07] [Server thread/INFO]: 老色批 joined the game
+[14:57:29] [Server thread/INFO]: 老色批 was blown up by Creeper
+[15:18:17] [Server thread/INFO]: <老色批> t
+[15:23:14] [Server thread/INFO]: 老色批 has made the advancement [A Seedy Place]
+[15:50:14] [Server thread/INFO]: 老色批 has made the advancement [Hot Stuff]
+[16:08:06] [Server thread/INFO]: 老色批 tried to swim in lava
+[17:16:05] [Server thread/INFO]: <老色批> helloworld
+[17:16:11] [Server thread/INFO]: <老色批> t
+[18:00:39] [Server thread/INFO]: 老色批 has made the advancement [Ice Bucket Challenge]
+[18:56:40] [Server thread/INFO]: 老色批 was slain by Zombie
+[18:57:44] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[18:57:44] [Server thread/INFO]: 老色批 left the game
+[21:12:32] [Server thread/INFO]: 老色批[/112.6.224.44:6469] logged in with entity id 418683 at (-87.1651608750997, 76.0, -12.587542953828383)
+[21:12:32] [Server thread/INFO]: 老色批 joined the game
+[21:15:41] [Server thread/INFO]: 老色批 was shot by Skeleton
+[21:16:11] [Server thread/INFO]: 老色批 was shot by Skeleton
+[21:16:35] [Server thread/INFO]: 老色批 was shot by Skeleton
+[21:17:41] [Server thread/INFO]: 老色批 was shot by Skeleton
+[21:18:19] [Server thread/INFO]: 老色批 was shot by Skeleton
+[21:19:49] [Server thread/INFO]: <老色批> SDADADA
+[21:20:27] [Server thread/INFO]: 老色批 fell from a high place
+[22:06:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2111ms behind, skipping 42 tick(s)
+[22:07:02] [Server thread/WARN]: 老色批 moved too quickly! 9.901191089237273,1.0,1.494059788229606
+[22:08:20] [Server Watchdog/FATAL]: A single server tick took 60.01 seconds (should be max 0.05)
+[22:08:26] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[22:18:11] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[22:18:11] [Server thread/INFO]: Loading properties
+[22:18:11] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_312]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_312]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_312]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_312]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_312]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_312]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_312]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_312]
+	at nz$2.run(SourceFile:100) [minecraft_server.1.12.2.jar:?]
+[22:18:11] [Server thread/INFO]: Default game type: SURVIVAL
+[22:18:11] [Server thread/INFO]: Generating keypair
+[22:18:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:18:12] [Server thread/INFO]: Using epoll channel type
+[22:18:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:18:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:18:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:18:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:18:12] [Server thread/INFO]: Preparing level "world"
+[22:18:13] [Server thread/INFO]: Loaded 488 advancements
+[22:18:13] [Server thread/INFO]: Preparing start region for level 0
+[22:18:14] [Server thread/INFO]: Preparing spawn area: 0%
+[22:18:15] [Server thread/INFO]: Preparing spawn area: 14%
+[22:18:16] [Server thread/INFO]: Preparing spawn area: 58%
+[22:18:17] [Server thread/INFO]: Done (4.855s)! For help, type "help" or "?"
+[22:18:27] [Server thread/INFO]: 老色批[/112.6.224.44:1405] logged in with entity id 14 at (-890.6619500157168, 73.0, 331.25213223268713)
+[22:18:27] [Server thread/INFO]: 老色批 joined the game
+[22:18:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2976ms behind, skipping 59 tick(s)
+[22:19:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3718ms behind, skipping 74 tick(s)
+[22:55:16] [Server thread/INFO]: 老色批 has made the advancement [Enchanter]
+[22:59:28] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[22:59:28] [Server thread/INFO]: 老色批 left the game
+[07:39:42] [Server thread/INFO]: INETDataSurveyB6[/163.172.139.143:47650] logged in with entity id 36743 at (-67.5, 79.0, -9.5)
+[07:39:42] [Server thread/INFO]: INETDataSurveyB6 joined the game
+[07:39:43] [Server thread/INFO]: INETDataSurveyB6 lost connection: Disconnected
+[07:39:43] [Server thread/INFO]: INETDataSurveyB6 left the game
+[10:13:34] [Server thread/INFO]: DITINGmisa[/112.6.224.44:3879] logged in with entity id 36760 at (-134.30591767678965, 70.0, 20.03849894032139)
+[10:13:34] [Server thread/INFO]: DITINGmisa joined the game
+[10:13:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4487ms behind, skipping 89 tick(s)
+[10:15:33] [Server thread/INFO]: DITINGmisa was slain by Zombie
+[10:16:58] [Server thread/INFO]: DITINGmisa was slain by Zombie
+[10:19:49] [Server thread/INFO]: DITINGmisa was slain by Zombie
+[10:23:40] [Server thread/INFO]: DITINGmisa was slain by Zombie
+[10:27:17] [Server thread/INFO]: 老色批[/112.6.224.44:18421] logged in with entity id 57399 at (126.02741619159737, 44.0, 203.93788787699316)
+[10:27:17] [Server thread/INFO]: 老色批 joined the game
+[10:30:55] [Server thread/INFO]: <老色批> press T to speak
+[10:31:42] [Server thread/INFO]: <老色批> go to the location (x:-20,z:186)
+[10:32:10] [Server thread/INFO]: <DITINGmisa> ok
+[10:32:55] [Server thread/INFO]: <老色批> daytime or night now?
+[10:34:08] [Server thread/INFO]: <老色批> I am here waiting
+[10:34:50] [Server thread/INFO]: <DITINGmisa> 没有传送功能
+[10:35:05] [Server thread/INFO]: <DITINGmisa> 我跑过去
+[10:35:36] [Server thread/INFO]: <老色批> 要开下个新档的时候，在服务器配置作弊权限
+[10:38:48] [Server thread/INFO]: <老色批> slow
+[10:39:46] [Server thread/INFO]: <老色批> be quick,it's about night
+[10:39:58] [Server thread/INFO]: <DITINGmisa> qs
+[10:40:35] [Server thread/INFO]: <老色批> walk stright
+[10:40:55] [Server thread/INFO]: <DITINGmisa> you are so coooool
+[10:42:12] [Server thread/INFO]: <老色批> follow
+[10:42:16] [Server thread/INFO]: <老色批> me
+[10:42:21] [Server thread/INFO]: <DITINGmisa> where
+[10:43:30] [Server thread/INFO]: <老色批> sleep
+[10:43:34] [Server thread/INFO]: 老色批 has made the advancement [Sweet dreams]
+[10:43:36] [Server thread/INFO]: DITINGmisa has made the advancement [Sweet dreams]
+[10:43:56] [Server thread/INFO]: <老色批> rebirth point reseted
+[10:44:03] [Server thread/INFO]: <DITINGmisa> 饿死我了
+[10:44:14] [Server thread/INFO]: <老色批> food in the box
+[10:45:19] [Server thread/INFO]: <老色批> I now go hunting
+[10:45:39] [Server thread/INFO]: <DITINGmisa> ok
+[10:45:45] [Server thread/INFO]: <老色批> you learn how play
+[10:46:12] [Server thread/INFO]: <老色批> this is the door out,remember to close
+[10:46:25] [Server thread/INFO]: <DITINGmisa> i need sword
+[10:46:38] [Server thread/INFO]: <老色批> make yourself
+[10:46:53] [Server thread/INFO]: <DITINGmisa> yeah
+[10:47:35] [Server thread/INFO]: DITINGmisa has made the advancement [Suit Up]
+[10:47:35] [Server thread/INFO]: DITINGmisa has made the advancement [Isn't It Iron Pick]
+[10:48:59] [Server thread/INFO]: <老色批> 你也可以去挖矿，但别把家挖了
+[10:53:39] [Server thread/INFO]: <老色批> at night,do'not go out,dangerous
+[10:56:32] [Server thread/INFO]: <DITINGmisa> 在不
+[10:56:43] [Server thread/INFO]: <老色批> what
+[10:56:49] [Server thread/INFO]: <DITINGmisa> kan qq
+[11:01:01] [Server thread/INFO]: DITINGmisa was shot by Skeleton
+[11:01:06] [Server thread/INFO]: <老色批> ...
+[11:01:26] [Server thread/INFO]: <DITINGmisa> 小问题
+[11:01:28] [Server thread/INFO]: <老色批> 装备掉光了吧
+[11:02:38] [Server thread/INFO]: <老色批> 做盔甲用金子，铁的话做武器好点
+[11:05:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4006ms behind, skipping 80 tick(s)
+[11:08:04] [Server thread/INFO]: <DITINGmisa> 我还是合成不了火把、
+[11:08:14] [Server thread/INFO]: DITINGmisa lost connection: Timed out
+[11:08:14] [Server thread/INFO]: DITINGmisa left the game
+[11:10:01] [Server thread/INFO]: DITINGmisa[/112.6.224.44:5078] logged in with entity id 126823 at (125.72467464708146, 44.0, 202.41556227822346)
+[11:10:01] [Server thread/INFO]: DITINGmisa joined the game
+[11:10:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5195ms behind, skipping 103 tick(s)
+[11:20:13] [Server thread/INFO]: DITINGmisa tried to swim in lava
+[11:20:25] [Server thread/INFO]: <DITINGmisa> cao
+[11:20:26] [Server thread/INFO]: <老色批> I just look look
+[11:20:35] [Server thread/INFO]: <老色批> no words
+[11:21:04] [Server thread/INFO]: <老色批> what are you doing
+[11:21:06] [Server thread/INFO]: <DITINGmisa> 挖矿挖岩浆里去了
+[11:23:07] [Server thread/INFO]: 老色批 burned to death
+[11:23:14] [Server thread/INFO]: <老色批> nima
+[11:24:08] [Server thread/INFO]: <DITINGmisa> zai hui shi
+[11:25:07] [Server thread/INFO]: <老色批> wa kuang wakuang
+[11:25:15] [Server thread/INFO]: <老色批> iron and gold are gone
+[11:25:16] [Server thread/INFO]: <DITINGmisa> 我也打猎去
+[11:25:26] [Server thread/INFO]: <老色批> ...
+[11:25:33] [Server thread/INFO]: <老色批> you know where
+[11:25:41] [Server thread/INFO]: <DITINGmisa> no
+[11:25:41] [Server thread/INFO]: <老色批> has animals?
+[11:25:53] [Server thread/INFO]: <DITINGmisa> you dailu
+[11:26:21] [Server thread/INFO]: <老色批> x:-704,z:315
+[11:26:30] [Server thread/INFO]: <老色批> my last death poing
+[11:26:40] [Server thread/INFO]: <老色批> to pick my goods
+[11:26:50] [Server thread/INFO]: <DITINGmisa> gogogo
+[11:26:56] [Server thread/INFO]: <DITINGmisa> lead me
+[11:26:56] [Server thread/INFO]: <老色批> I stay home
+[11:27:10] [Server thread/INFO]: <DITINGmisa> i protect you
+[11:27:20] [Server thread/INFO]: <DITINGmisa> wait to day
+[11:27:23] [Server thread/INFO]: <老色批> iron and gold are about gone
+[11:28:42] [Server thread/INFO]: <DITINGmisa> 你咋过去的
+[11:28:47] [Server thread/INFO]: <老色批> walk
+[11:30:18] [Server thread/INFO]: <DITINGmisa> where
+[11:30:28] [Server thread/INFO]: <老色批> press T
+[11:30:34] [Server thread/INFO]: <DITINGmisa> 地图上看不到你
+[11:30:46] [Server thread/INFO]: <老色批> di xia
+[11:31:10] [Server thread/INFO]: <DITINGmisa> up
+[11:31:21] [Server thread/INFO]: <DITINGmisa> go to you last death
+[11:31:30] [Server thread/INFO]: <老色批> you go yourself
+[11:31:45] [Server thread/INFO]: <DITINGmisa> 你上次在哪里死的
+[11:32:01] [Server thread/INFO]: <老色批> press "T" to see logs
+[11:32:40] [Server thread/INFO]: <DITINGmisa> ?
+[11:32:52] [Server thread/INFO]: <DITINGmisa> 看不到坐标啊
+[11:33:13] [Server thread/INFO]: <DITINGmisa> 你还拿遗产不
+[11:33:17] [Server thread/INFO]: <老色批> x:-704,z:315
+[11:33:42] [Server thread/INFO]: <DITINGmisa> 先回家睡觉
+[11:33:44] [Server thread/INFO]: <老色批> when arrived,all disapeared
+[11:34:24] [Server thread/INFO]: <老色批> and my equipments are in rong jiang
+[11:34:35] [Server thread/INFO]: <DITINGmisa> cao
+[11:34:42] [Server thread/INFO]: <DITINGmisa> me too
+[11:35:16] [Server thread/INFO]: <老色批> ready for the next trip:the hell
+[11:35:27] [Server thread/INFO]: <DITINGmisa> 来睡觉
+[11:35:38] [Server thread/INFO]: <DITINGmisa> 来睡觉
+[11:35:50] [Server thread/INFO]: <老色批> no
+[11:35:54] [Server thread/INFO]: <DITINGmisa> cao
+[11:37:06] [Server thread/INFO]: <DITINGmisa> buy food
+[11:37:33] [Server thread/INFO]: <老色批> fine
+[11:37:35] [Server thread/INFO]: <DITINGmisa> 下了
+[11:37:45] [Server thread/INFO]: DITINGmisa lost connection: Disconnected
+[11:37:45] [Server thread/INFO]: DITINGmisa left the game
+[11:51:54] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[11:51:54] [Server thread/INFO]: 老色批 left the game
+[15:56:17] [Server thread/INFO]: 老色批[/112.6.224.44:2078] logged in with entity id 162126 at (126.02626914166659, 44.0, 202.4454783147312)
+[15:56:17] [Server thread/INFO]: 老色批 joined the game
+[15:56:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2446ms behind, skipping 48 tick(s)
+[16:00:44] [Server thread/INFO]: 老色批 has made the advancement [We Need to Go Deeper]
+[16:00:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8172ms behind, skipping 163 tick(s)
+[16:00:46] [Server thread/WARN]: 老色批 moved too quickly! -87.82909828871442,-31.0,-168.09491063174846
+[16:00:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5079ms behind, skipping 101 tick(s)
+[16:09:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2781ms behind, skipping 55 tick(s)
+[16:09:22] [Server thread/WARN]: 老色批 moved too quickly! 87.45049958062171,31.0,168.41523892859277
+[16:10:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2382ms behind, skipping 47 tick(s)
+[16:10:46] [Server thread/WARN]: 老色批 moved too quickly! -87.97760866991078,-31.0,-167.96842573959742
+[16:14:00] [Server thread/INFO]: 老色批 was slain by Zombie Pigman
+[16:16:24] [Server Watchdog/FATAL]: A single server tick took 60.22 seconds (should be max 0.05)
+[16:16:27] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[16:22:07] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:22:07] [Server thread/INFO]: Loading properties
+[16:22:07] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_312]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_312]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_312]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_312]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_312]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_312]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_312]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_312]
+	at nz$2.run(SourceFile:100) [minecraft_server.1.12.2.jar:?]
+[16:22:07] [Server thread/INFO]: Default game type: SURVIVAL
+[16:22:07] [Server thread/INFO]: Generating keypair
+[16:22:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:22:07] [Server thread/INFO]: Using epoll channel type
+[16:22:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:22:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:22:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:22:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:22:08] [Server thread/INFO]: Preparing level "world"
+[16:22:08] [Server thread/INFO]: Loaded 488 advancements
+[16:22:08] [Server thread/INFO]: Preparing start region for level 0
+[16:22:10] [Server thread/INFO]: Preparing spawn area: 0%
+[16:22:11] [Server thread/INFO]: Preparing spawn area: 17%
+[16:22:12] [Server thread/INFO]: Preparing spawn area: 70%
+[16:22:12] [Server thread/INFO]: Done (4.503s)! For help, type "help" or "?"
+[16:22:13] [Server thread/INFO]: 老色批[/112.6.224.44:29235] logged in with entity id 27 at (126.74064928765428, 44.0, 203.2061318629598)
+[16:22:13] [Server thread/INFO]: 老色批 joined the game
+[16:22:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3030ms behind, skipping 60 tick(s)
+[16:22:43] [Server thread/WARN]: 老色批 moved too quickly! -88.67670130818732,-31.0,-168.3162337428122
+[16:23:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3573ms behind, skipping 71 tick(s)
+[16:23:02] [Server thread/WARN]: 老色批 moved too quickly! 9.227898642692935,0.0,-3.9055840598187466
+2022-04-12 16:28:11,629 Server thread WARN Unable to register Log4j shutdown hook because JVM is shutting down. Using SimpleLogger
+[22:27:44] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[22:27:44] [Server thread/INFO]: Loading properties
+[22:27:44] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_312]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_312]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_312]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_312]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_312]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_312]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_312]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_312]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_312]
+	at nz$2.run(SourceFile:100) [minecraft_server.1.12.2.jar:?]
+[22:27:44] [Server thread/INFO]: Default game type: SURVIVAL
+[22:27:44] [Server thread/INFO]: Generating keypair
+[22:27:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:27:45] [Server thread/INFO]: Using epoll channel type
+[22:27:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:27:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:27:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:27:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:27:45] [Server thread/INFO]: Preparing level "world"
+[22:27:45] [Server thread/INFO]: Loaded 488 advancements
+[22:27:45] [Server thread/INFO]: Preparing start region for level 0
+[22:27:46] [Server thread/INFO]: Preparing spawn area: 11%
+[22:27:47] [Server thread/INFO]: Preparing spawn area: 88%
+[22:27:47] [Server thread/INFO]: Done (2.480s)! For help, type "help" or "?"
+[22:29:02] [Server thread/INFO]: 老色批[/112.6.224.44:17872] logged in with entity id 30 at (50.15150304315176, 36.0, 61.853386206858204)
+[22:29:02] [Server thread/INFO]: 老色批 joined the game
+[22:30:27] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[22:30:27] [Server thread/INFO]: 老色批 left the game
+[22:30:29] [Server thread/INFO]: 老色批[/112.6.224.44:17877] logged in with entity id 246 at (49.886348588115666, 35.0, 62.69999998807907)
+[22:30:29] [Server thread/INFO]: 老色批 joined the game
+[22:31:00] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:31:00] [Server thread/INFO]: 老色批 left the game
+[22:31:08] [Server thread/INFO]: 老色批[/112.6.224.44:17884] logged in with entity id 333 at (48.30000001192093, 32.0, 61.69999998807907)
+[22:31:08] [Server thread/INFO]: 老色批 joined the game
+[22:31:40] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:31:40] [Server thread/INFO]: 老色批 left the game
+[22:32:09] [Server thread/INFO]: 老色批[/112.6.224.44:17888] logged in with entity id 434 at (48.30000001192093, 32.0, 61.663989913340025)
+[22:32:09] [Server thread/INFO]: 老色批 joined the game
+[22:34:07] [Server thread/INFO]: <老色批> sad
+[22:43:33] [Server thread/WARN]: 老色批 moved too quickly! -87.88090280893255,-31.0,-167.72084976016777
+[22:47:41] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:47:41] [Server thread/INFO]: 老色批 left the game
+[22:47:47] [Server thread/INFO]: 老色批[/112.6.224.44:17939] logged in with entity id 4055 at (91.75699591701064, 42.166109260938214, 34.49276800775351)
+[22:47:47] [Server thread/INFO]: 老色批 joined the game
+[22:48:18] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:48:18] [Server thread/INFO]: 老色批 left the game
+[22:48:31] [Server thread/INFO]: 老色批[/112.6.224.44:17942] logged in with entity id 4139 at (94.69999998807907, 44.0, 34.46888277108246)
+[22:48:31] [Server thread/INFO]: 老色批 joined the game
+[22:49:32] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[22:49:32] [Server thread/INFO]: 老色批 left the game
+[22:49:32] [Server thread/INFO]: 老色批[/112.6.224.44:17947] logged in with entity id 4247 at (94.69999998807907, 44.0, 34.46888277108246)
+[22:49:32] [Server thread/INFO]: 老色批 joined the game
+[22:50:02] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[22:50:02] [Server thread/INFO]: 老色批 left the game
+[22:50:33] [Server thread/INFO]: 老色批[/112.6.224.44:10317] logged in with entity id 4371 at (94.69999998807907, 44.0, 34.46888277108246)
+[22:50:33] [Server thread/INFO]: 老色批 joined the game
+[22:51:03] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[22:51:03] [Server thread/INFO]: 老色批 left the game
+[22:51:09] [Server thread/INFO]: 老色批[/112.6.224.44:10327] logged in with entity id 4452 at (94.69999998807907, 44.0, 34.46888277108246)
+[22:51:09] [Server thread/INFO]: 老色批 joined the game
+[22:52:10] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:52:10] [Server thread/INFO]: 老色批 left the game
+[22:52:37] [Server thread/INFO]: 老色批[/112.6.224.44:10330] logged in with entity id 4602 at (94.69999998807907, 44.0, 34.46888277108246)
+[22:52:37] [Server thread/INFO]: 老色批 joined the game
+[22:53:11] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:53:11] [Server thread/INFO]: 老色批 left the game
+[22:53:20] [Server thread/INFO]: 老色批[/112.6.224.44:10334] logged in with entity id 4699 at (97.58470476656011, 47.0, 34.468532977324685)
+[22:53:20] [Server thread/INFO]: 老色批 joined the game
+[22:54:41] [Server thread/INFO]: 老色批 has made the advancement [A Terrible Fortress]
+[22:56:35] [Server thread/INFO]: 老色批 withered away
+[22:56:58] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[22:56:58] [Server thread/INFO]: 老色批 left the game
+[09:53:44] [Server thread/INFO]: 老色批[/112.6.224.44:25544] logged in with entity id 5255 at (126.05239731112569, 44.0, 203.2887422066397)
+[09:53:44] [Server thread/INFO]: 老色批 joined the game
+[09:54:43] [Server thread/WARN]: 老色批 moved too quickly! -88.2496841895277,-31.0,-168.1571697245127
+[10:04:44] [Server thread/INFO]: 老色批 withered away
+[10:07:30] [Server thread/WARN]: 老色批 moved too quickly! -87.80000001192093,-31.0,-167.1470264138972
+[10:11:40] [Server thread/INFO]: 老色批 withered away
+[10:12:10] [Server thread/WARN]: 老色批 moved too quickly! -88.06628399577158,-31.0,-167.83743286308345
+[10:18:18] [Server thread/INFO]: 老色批 was slain by Zombie Pigman
+[10:18:35] [Server thread/WARN]: 老色批 moved too quickly! -88.31626131664746,-31.0,-168.17090032397027
+[10:19:34] [Server thread/WARN]: 老色批 moved too quickly! 87.64863379621929,31.0,168.30662342369828
+[10:25:34] [Server thread/INFO]: 老色批 was shot by Skeleton
+[10:38:48] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[10:38:48] [Server thread/INFO]: 老色批 left the game
+[16:19:42] [Server thread/INFO]: DITINGmisa[/112.6.224.44:3946] logged in with entity id 33950 at (126.58933977549054, 44.0, 202.16183814700287)
+[16:19:42] [Server thread/INFO]: DITINGmisa joined the game
+[16:20:52] [Server thread/INFO]: DITINGmisa has made the advancement [We Need to Go Deeper]
+[16:20:52] [Server thread/WARN]: DITINGmisa moved too quickly! -87.80000001192093,-31.0,-167.70247702037716
+[16:22:37] [Server thread/INFO]: DITINGmisa was slain by Zombie Pigman
+[16:23:11] [Server thread/WARN]: DITINGmisa moved too quickly! -87.80000001192093,-31.0,-168.8351134188323
+[16:28:10] [Server thread/INFO]: 老色批[/112.6.224.44:6703] logged in with entity id 36073 at (-122.45236282196493, 70.0, 7.7136474611312105)
+[16:28:10] [Server thread/INFO]: 老色批 joined the game
+[16:28:30] [Server thread/INFO]: <老色批> i
+[16:28:44] [Server thread/INFO]: <DITINGmisa> diyu
+[16:29:08] [Server thread/INFO]: DITINGmisa was slain by Zombie Pigman
+[16:29:18] [Server thread/INFO]: <老色批> ...
+[16:29:37] [Server thread/INFO]: <DITINGmisa> 打不过
+[16:30:00] [Server thread/INFO]: <DITINGmisa> 好多猪人
+[16:31:42] [Server thread/WARN]: DITINGmisa moved too quickly! -87.91980434028004,-31.0,-168.79510665062867
+[16:33:00] [Server thread/INFO]: <老色批> 猪人，你不打它它不会打你的
+[16:33:19] [Server thread/INFO]: <DITINGmisa> 这里有啥玩的
+[16:33:27] [Server thread/INFO]: <老色批> goods
+[16:33:32] [Server thread/INFO]: <DITINGmisa> 没看见资源
+[16:33:50] [Server thread/INFO]: <老色批> I go there to lead you
+[16:34:17] [Server thread/INFO]: DITINGmisa tried to swim in lava
+[16:34:46] [Server thread/WARN]: DITINGmisa moved too quickly! -87.80000001192093,-31.0,-167.50448914776223
+[16:37:40] [Server thread/INFO]: <老色批> i am coming
+[16:38:12] [Server thread/INFO]: <DITINGmisa> 我找不到遗物了
+[16:38:40] [Server thread/INFO]: <老色批> press M to locate your death point
+[16:38:58] [Server thread/INFO]: <DITINGmisa> lastlast time
+[16:39:56] [Server thread/WARN]: 老色批 moved too quickly! -88.18047288437555,-31.0,-168.0973930526585
+[16:40:51] [Server thread/INFO]: <老色批> where are you
+[16:41:14] [Server thread/INFO]: <DITINGmisa> x139z67
+[16:42:26] [Server thread/INFO]: 老色批 lost connection: Timed out
+[16:42:26] [Server thread/INFO]: 老色批 left the game
+[16:42:26] [Server thread/WARN]: handleDisconnection() called twice
+[16:42:31] [Server thread/INFO]: 老色批[/112.6.224.44:1378] logged in with entity id 56647 at (98.47330077982905, 50.00133597911215, 33.28040151111782)
+[16:42:31] [Server thread/INFO]: 老色批 joined the game
+[16:43:18] [Server thread/INFO]: <老色批> now where
+[16:43:36] [Server thread/INFO]: <DITINGmisa> 没动
+[16:44:40] [Server thread/INFO]: <DITINGmisa> lai le mei
+[16:44:53] [Server thread/INFO]: <老色批> see you
+[16:45:19] [Server thread/INFO]: DITINGmisa was slain by Enderman
+[16:45:31] [Server thread/INFO]: <DITINGmisa> cao
+[16:45:40] [Server thread/INFO]: <老色批> 你没有进这个堡垒？
+[16:45:42] [Server thread/INFO]: <DITINGmisa> i didnt hit him
+[16:45:47] [Server thread/INFO]: <DITINGmisa> why
+[16:46:43] [Server thread/INFO]: <老色批> you watch him then
+[16:47:08] [Server thread/INFO]: <老色批> only pigman dosen't hit you first
+[16:49:40] [Server thread/INFO]: <DITINGmisa> where are you
+[16:49:40] [Server thread/INFO]: <老色批> 带把稿子来挖地狱的物资把
+[16:49:50] [Server thread/INFO]: <DITINGmisa> 我啥也没有
+[16:49:54] [Server thread/INFO]: <老色批> x134 z-31
+[16:50:07] [Server thread/INFO]: <老色批> 就一把稿子就行了
+[16:51:06] [Server thread/INFO]: 老色批 has made the advancement [Into Fire]
+[16:51:45] [Server thread/INFO]: <DITINGmisa> 碉堡怎么上
+[16:51:46] [Server thread/INFO]: <老色批> now
+[16:52:21] [Server thread/INFO]: 老色批 was fireballed by Blaze
+[16:52:34] [Server thread/INFO]: DITINGmisa tried to swim in lava
+[16:52:58] [Server thread/INFO]: <DITINGmisa> gogogo
+[16:53:00] [Server thread/INFO]: <老色批> difficult
+[16:53:50] [Server thread/INFO]: <DITINGmisa> 直接光着去吧
+[16:54:23] [Server thread/INFO]: <老色批> two gaozi
+[16:54:29] [Server thread/INFO]: <DITINGmisa> 死了不丢东西
+[16:55:07] [Server thread/INFO]: <老色批> 带石稿
+[16:55:18] [Server thread/INFO]: <老色批> 铁稿子有点亏
+[16:55:30] [Server thread/INFO]: <老色批> 现做
+[16:55:41] [Server thread/INFO]: DITINGmisa has made the advancement [Getting an Upgrade]
+[16:55:48] [Server thread/INFO]: <DITINGmisa> okok
+[16:56:38] [Server thread/WARN]: 老色批 moved too quickly! -88.26143109314071,-31.0,-166.89069315452878
+[16:58:20] [Server thread/INFO]: DITINGmisa has made the advancement [A Terrible Fortress]
+[16:58:34] [Server thread/INFO]: <老色批> pigman 别打
+[17:00:09] [Server thread/INFO]: <老色批> 直接溜
+[17:00:47] [Server thread/INFO]: <老色批> kill that one
+[17:01:05] [Server thread/INFO]: <老色批> 它发子弹有间隔
+[17:01:21] [Server thread/INFO]: DITINGmisa has made the advancement [Into Fire]
+[17:01:31] [Server thread/INFO]: <老色批> back
+[17:01:37] [Server thread/INFO]: <DITINGmisa> eat
+[17:02:55] [Server thread/INFO]: <老色批> keep on
+[17:04:23] [Server thread/INFO]: <老色批> bie
+[17:05:17] [Server thread/INFO]: <老色批> 末影人 你看到他就打你
+[17:08:57] [Server thread/INFO]: 老色批 burned to death
+[17:09:11] [Server thread/INFO]: <DITINGmisa> cao
+[17:09:20] [Server thread/INFO]: <DITINGmisa> wait you
+[17:10:01] [Server thread/INFO]: <老色批> 他们的伤害特别高
+[17:11:42] [Server thread/INFO]: <老色批> huoba
+[17:12:20] [Server thread/INFO]: <老色批> mei jian dao
+[17:12:54] [Server thread/INFO]: <老色批> 前面有一个刷怪箱
+[17:13:17] [Server thread/INFO]: <老色批> 我先查一查怎么封印
+[17:13:33] [Server thread/INFO]: <DITINGmisa> 我先去杀了这个
+[17:13:38] [Server thread/INFO]: <老色批> bie
+[17:14:03] [Server thread/INFO]: <老色批> 有刷怪箱在，一直生成
+[17:14:14] [Server thread/INFO]: <DITINGmisa> 话说挖的这些有啥用
+[17:15:03] [Server thread/INFO]: <老色批> 后面做药水需要烈焰棒
+[17:15:23] [Server thread/INFO]: <老色批> 还有炼金材料，火焰弹之类的
+[17:15:47] [Server thread/INFO]: <DITINGmisa> 这个帮帮能不能直接烧僵尸
+[17:16:24] [Server thread/INFO]: <老色批> 啥帮帮
+[17:16:37] [Server thread/INFO]: <DITINGmisa> 烈焰棒
+[17:16:48] [Server thread/INFO]: <老色批> 烈焰人的刷怪箱封不了
+[17:16:53] [Server thread/INFO]: <老色批> 不能
+[17:17:43] [Server thread/INFO]: <老色批> 地狱岩可以永久燃烧
+[17:18:08] [Server thread/INFO]: <老色批> 挖萤石
+[17:18:21] [Server thread/INFO]: <老色批> 别摔下去了
+[17:19:59] [Server thread/INFO]: <老色批> help
+[17:21:00] [Server thread/INFO]: <DITINGmisa> up
+[17:21:09] [Server thread/INFO]: <DITINGmisa> 去打猎
+[17:21:17] [Server thread/INFO]: <DITINGmisa> 没吃的了
+[17:21:22] [Server thread/INFO]: <老色批> waia a monment
+[17:22:20] [Server thread/INFO]: DITINGmisa burned to death
+[17:22:42] [Server thread/INFO]: <DITINGmisa> wait you
+[17:22:43] [Server thread/INFO]: <老色批> 你不用来了 我回去
+[17:22:50] [Server thread/INFO]: <DITINGmisa> ok
+[17:25:07] [Server thread/INFO]: <DITINGmisa> eateat
+[17:25:41] [Server thread/INFO]: <DITINGmisa> 快回来，回来去吃饭
+[17:26:36] [Server thread/INFO]: <DITINGmisa> ok,tui
+[17:27:59] [Server thread/INFO]: <老色批> ok
+[17:28:01] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[17:28:01] [Server thread/INFO]: 老色批 left the game
+[17:28:03] [Server thread/INFO]: DITINGmisa lost connection: Disconnected
+[17:28:03] [Server thread/INFO]: DITINGmisa left the game
+[19:41:10] [Server thread/INFO]: 老色批[/112.6.224.44:2024] logged in with entity id 70227 at (126.03417332283983, 44.0, 202.17864177644805)
+[19:41:10] [Server thread/INFO]: 老色批 joined the game
+[19:41:58] [Server thread/INFO]: 老色批 has made the advancement [Local Brewery]
+[21:13:02] [Server thread/INFO]: 老色批 lost connection: Timed out
+[21:13:02] [Server thread/INFO]: 老色批 left the game
+[21:45:39] [Server thread/INFO]: 老色批[/112.6.224.44:1875] logged in with entity id 127587 at (-546.3000000119209, 62.0, 832.4004412854798)
+[21:45:39] [Server thread/INFO]: 老色批 joined the game
+[21:46:13] [Server thread/INFO]: 老色批 lost connection: Timed out
+[21:46:13] [Server thread/INFO]: 老色批 left the game
+[21:46:18] [Server thread/INFO]: 老色批[/112.6.224.44:1900] logged in with entity id 127857 at (-545.3472237559716, 63.0, 831.9830467488349)
+[21:46:18] [Server thread/INFO]: 老色批 joined the game
+[21:49:48] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[21:49:48] [Server thread/INFO]: 老色批 left the game
+[21:50:22] [Server thread/INFO]: 老色批[/112.6.224.44:2025] logged in with entity id 130297 at (-691.1858916150929, 71.0, 887.9122998329707)
+[21:50:22] [Server thread/INFO]: 老色批 joined the game
+[22:00:25] [Server thread/INFO]: DITINGmisa[/112.6.224.44:14767] logged in with entity id 142577 at (124.92026050300933, 44.0, 203.93071765867222)
+[22:00:25] [Server thread/INFO]: DITINGmisa joined the game
+[22:00:55] [Server thread/INFO]: DITINGmisa lost connection: Disconnected
+[22:00:55] [Server thread/INFO]: DITINGmisa left the game
+[22:01:11] [Server thread/INFO]: DITINGmisa[/112.6.224.44:14788] logged in with entity id 143474 at (124.92026050300933, 44.0, 203.93071765867222)
+[22:01:11] [Server thread/INFO]: DITINGmisa joined the game
+[22:01:40] [Server thread/INFO]: <DITINGmisa> hello
+[22:01:48] [Server thread/INFO]: <老色批> skype
+[22:02:52] [Server thread/INFO]: <DITINGmisa> jiedianhua
+[22:03:39] [Server thread/INFO]: <DITINGmisa> can you hear me
+[22:12:20] [Server thread/INFO]: <DITINGmisa> can you hear me
+[22:19:25] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:19:25] [Server thread/INFO]: 老色批 left the game
+[22:19:30] [Server thread/INFO]: 老色批[/112.6.224.44:22192] logged in with entity id 173229 at (-275.9898795041243, 62.07326432466507, 611.8235444079885)
+[22:19:30] [Server thread/INFO]: 老色批 joined the game
+[22:19:35] [Server thread/INFO]: DITINGmisa was slain by Zombie
+[22:20:00] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[22:20:00] [Server thread/INFO]: 老色批 left the game
+[22:20:05] [Server thread/INFO]: DITINGmisa lost connection: Timed out
+[22:20:05] [Server thread/INFO]: DITINGmisa left the game
+[22:20:05] [Server thread/INFO]: 老色批[/112.6.224.44:22194] logged in with entity id 173843 at (-275.9898795041243, 62.07326432466507, 611.8235444079885)
+[22:20:05] [Server thread/INFO]: 老色批 joined the game
+[22:20:19] [Server thread/INFO]: DITINGmisa[/112.6.224.44:12642] logged in with entity id 174518 at (126.5, 43.099998474121094, 207.5)
+[22:20:19] [Server thread/INFO]: DITINGmisa joined the game
+[22:21:08] [Server thread/INFO]: DITINGmisa lost connection: Timed out
+[22:21:08] [Server thread/INFO]: DITINGmisa left the game
+[22:21:21] [Server thread/INFO]: DITINGmisa[/112.6.224.44:12665] logged in with entity id 175860 at (127.84063485362432, 46.0, 195.69258817337686)
+[22:21:21] [Server thread/INFO]: DITINGmisa joined the game
+[22:45:35] [Server thread/WARN]: DITINGmisa moved wrongly!
+[22:46:31] [Server thread/INFO]: DITINGmisa has made the advancement [Best Friends Forever]
+[22:46:56] [Server thread/INFO]: <老色批> ?
+[22:49:55] [Server thread/INFO]: <DITINGmisa> where are you
+[22:54:49] [Server thread/INFO]: <DITINGmisa> go home
+[22:55:40] [Server thread/INFO]: <老色批> follow me
+[23:00:24] [Server thread/INFO]: 老色批 lost connection: Timed out
+[23:00:24] [Server thread/INFO]: 老色批 left the game
+[23:00:24] [Server thread/INFO]: DITINGmisa lost connection: Timed out
+[23:00:24] [Server thread/INFO]: DITINGmisa left the game
+[11:42:28] [Server thread/INFO]: 老色批[/112.6.224.44:1177] logged in with entity id 216792 at (-779.3516188572306, 70.0, 132.58183538185142)
+[11:42:28] [Server thread/INFO]: 老色批 joined the game
+[13:14:45] [Server thread/INFO]: 老色批 was slain by Zombie
+[13:15:00] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[13:15:00] [Server thread/INFO]: 老色批 left the game
+[13:15:03] [Server thread/INFO]: 老色批[/112.6.224.44:24646] logged in with entity id 306800 at (-1274.5, 71.0999984741211, 1207.5)
+[13:15:03] [Server thread/INFO]: 老色批 joined the game
+[13:32:46] [Server thread/WARN]: Boat moved wrongly!
+[13:32:46] [Server thread/WARN]: Boat moved wrongly!
+[13:32:46] [Server thread/WARN]: Boat moved wrongly!
+[13:32:46] [Server thread/WARN]: Boat moved wrongly!
+[14:46:11] [Server thread/INFO]: 老色批 lost connection: Timed out
+[14:46:11] [Server thread/INFO]: 老色批 left the game
+[14:46:18] [Server thread/INFO]: 老色批[/112.6.224.44:32334] logged in with entity id 377957 at (118.26282829194608, 42.0, 195.2086582567214)
+[14:46:18] [Server thread/INFO]: 老色批 joined the game
+[16:32:31] [Server thread/INFO]: 老色批 was shot by Skeleton
+[16:53:16] [Server thread/WARN]: 老色批 moved too quickly! -88.06840901923206,-31.0,-167.95552864182696
+[17:00:24] [Server thread/INFO]: 老色批 has made the advancement [Take Aim]
+[17:15:22] [Server thread/WARN]: 老色批 moved too quickly! 87.96330492096286,31.0,168.75221903460852
+[17:39:55] [Server thread/WARN]: 老色批 moved wrongly!
+[17:40:59] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[17:40:59] [Server thread/INFO]: 老色批 left the game
+[17:54:25] [Server thread/INFO]: 老色批[/112.6.224.44:30243] logged in with entity id 487726 at (20.300000011920936, 24.0, 140.3483747945682)
+[17:54:25] [Server thread/INFO]: 老色批 joined the game
+[17:54:30] [Server thread/INFO]: 老色批 was slain by Zombie
+[17:58:04] [Server thread/INFO]: 老色批 was shot by Skeleton
+[18:04:43] [Server thread/INFO]: 老色批 was shot by Skeleton
+[18:04:47] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[18:04:47] [Server thread/INFO]: 老色批 left the game
+[21:15:16] [Server thread/INFO]: 老色批[/112.6.224.44:1121] logged in with entity id 498328 at (18.572813860686583, 11.0, 144.89533690211385)
+[21:15:16] [Server thread/INFO]: 老色批 joined the game
+[21:15:28] [Server thread/INFO]: DITINGmisa[/112.6.224.44:8025] logged in with entity id 498653 at (-779.3000000119209, 71.0, 134.69999998807904)
+[21:15:28] [Server thread/INFO]: DITINGmisa joined the game
+[21:16:03] [Server thread/INFO]: DITINGmisa lost connection: Timed out
+[21:16:03] [Server thread/INFO]: DITINGmisa left the game
+[21:16:16] [Server thread/INFO]: DITINGmisa[/112.6.224.44:4067] logged in with entity id 499652 at (-781.5101840427293, 72.0, 133.51653055685614)
+[21:16:16] [Server thread/INFO]: DITINGmisa joined the game
+[21:16:47] [Server thread/INFO]: DITINGmisa lost connection: Timed out
+[21:16:47] [Server thread/INFO]: DITINGmisa left the game
+[21:17:01] [Server thread/INFO]: DITINGmisa[/112.6.224.44:4108] logged in with entity id 500422 at (-789.7765654371692, 72.0, 133.00892215780604)
+[21:17:01] [Server thread/INFO]: DITINGmisa joined the game
+[21:17:56] [Server thread/INFO]: DITINGmisa was slain by Zombie
+[21:18:18] [Server thread/INFO]: DITINGmisa lost connection: Timed out
+[21:18:18] [Server thread/INFO]: DITINGmisa left the game
+[21:18:33] [Server thread/INFO]: DITINGmisa[/112.6.224.44:1915] logged in with entity id 502989 at (-537.5, 63.099998474121094, 844.5)
+[21:18:33] [Server thread/INFO]: DITINGmisa joined the game
+[21:18:55] [Server thread/INFO]: 老色批 has made the advancement [Suit Up]
+[21:25:51] [Server thread/INFO]: <DITINGmisa> can you here me
+[21:26:08] [Server thread/INFO]: <老色批> neng
+[21:28:22] [Server thread/INFO]: <DITINGmisa> whera are you
+[21:28:27] [Server thread/INFO]: <老色批> home
+[21:43:08] [Server thread/INFO]: DITINGmisa was shot by Skeleton
+[21:45:33] [Server thread/INFO]: <DITINGmisa> point
+[21:49:32] [Server thread/INFO]: <老色批> 还有多久到
+[21:49:50] [Server thread/INFO]: <DITINGmisa> 1 min
+[21:52:34] [Server thread/WARN]: DITINGmisa moved wrongly!
+[21:56:06] [Server thread/INFO]: 老色批 lost connection: Timed out
+[21:56:06] [Server thread/INFO]: 老色批 left the game
+[21:56:13] [Server thread/INFO]: 老色批[/112.6.224.44:16346] logged in with entity id 551335 at (124.5, 43.099998474121094, 207.5)
+[21:56:13] [Server thread/INFO]: 老色批 joined the game
+[21:56:39] [Server thread/INFO]: 老色批 lost connection: Timed out
+[21:56:39] [Server thread/INFO]: 老色批 left the game
+[21:56:44] [Server thread/INFO]: 老色批[/112.6.224.44:16348] logged in with entity id 551782 at (124.5, 43.099998474121094, 207.5)
+[21:56:44] [Server thread/INFO]: 老色批 joined the game
+[21:57:14] [Server thread/INFO]: 老色批 lost connection: Timed out
+[21:57:14] [Server thread/INFO]: 老色批 left the game
+[21:57:20] [Server thread/INFO]: 老色批[/112.6.224.44:16351] logged in with entity id 552789 at (124.5, 43.021598472595215, 207.5)
+[21:57:20] [Server thread/INFO]: 老色批 joined the game
+[21:58:23] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[21:58:23] [Server thread/INFO]: 老色批 left the game
+[21:59:11] [Server thread/INFO]: 老色批[/112.6.224.44:3206] logged in with entity id 554743 at (128.71223677349224, 50.0, 193.0435569034439)
+[21:59:11] [Server thread/INFO]: 老色批 joined the game
+[21:59:41] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[21:59:41] [Server thread/INFO]: 老色批 left the game
+[21:59:48] [Server thread/INFO]: 老色批[/112.6.224.44:15310] logged in with entity id 555265 at (128.71223677349224, 50.0, 193.0435569034439)
+[21:59:48] [Server thread/INFO]: 老色批 joined the game
+[21:59:54] [Server thread/INFO]: 老色批 was shot by Skeleton
+[22:00:03] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:00:03] [Server thread/INFO]: 老色批 left the game
+[22:00:10] [Server thread/INFO]: DITINGmisa was shot by Skeleton
+[22:00:17] [Server thread/INFO]: 老色批[/112.6.224.44:15315] logged in with entity id 556203 at (128.71223677349224, 50.0, 193.0435569034439)
+[22:00:17] [Server thread/INFO]: 老色批 joined the game
+[22:13:40] [Server thread/WARN]: 老色批 moved too quickly! -88.02122146324598,-31.0,-167.92795968856504
+[22:14:13] [Server thread/INFO]: 老色批 blew up
+[22:14:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3595ms behind, skipping 71 tick(s)
+[22:16:21] [Server thread/INFO]: sreCP[/112.6.224.58:56961] logged in with entity id 577148 at (-50.61804947276121, 88.0, -16.031190853525906)
+[22:16:21] [Server thread/INFO]: sreCP joined the game
+[22:16:52] [Server thread/INFO]: sreCP lost connection: Disconnected
+[22:16:52] [Server thread/INFO]: sreCP left the game
+[22:17:04] [Server thread/INFO]: sreCP[/112.6.224.58:56968] logged in with entity id 579507 at (-50.61804947276121, 88.0, -16.031190853525906)
+[22:17:04] [Server thread/INFO]: sreCP joined the game
+[22:17:29] [Server thread/INFO]: sreCP lost connection: Timed out
+[22:17:29] [Server thread/INFO]: sreCP left the game
+[22:17:45] [Server thread/INFO]: sreCP[/112.6.224.58:56977] logged in with entity id 581547 at (-50.61804947276121, 88.0, -16.031190853525906)
+[22:17:45] [Server thread/INFO]: sreCP joined the game
+[22:18:35] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:18:35] [Server thread/INFO]: 老色批 left the game
+[22:18:37] [Server thread/INFO]: sreCP lost connection: Timed out
+[22:18:37] [Server thread/INFO]: sreCP left the game
+[22:18:42] [Server thread/INFO]: 老色批[/112.6.224.44:1038] logged in with entity id 583959 at (27.5, 12.0, 35.69999998807907)
+[22:18:42] [Server thread/INFO]: 老色批 joined the game
+[22:18:57] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:18:57] [Server thread/INFO]: 老色批 left the game
+[22:19:02] [Server thread/INFO]: sreCP[/112.6.224.58:56989] logged in with entity id 583980 at (-50.61804947276121, 88.0, -16.031190853525906)
+[22:19:02] [Server thread/INFO]: sreCP joined the game
+[22:19:05] [Server thread/INFO]: 老色批[/112.6.224.44:1034] logged in with entity id 584268 at (27.5, 12.0, 35.69999998807907)
+[22:19:05] [Server thread/INFO]: 老色批 joined the game
+[22:19:21] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:19:21] [Server thread/INFO]: 老色批 left the game
+[22:19:29] [Server thread/INFO]: 老色批[/112.6.224.44:1037] logged in with entity id 585053 at (27.5, 12.0, 35.69999998807907)
+[22:19:29] [Server thread/INFO]: 老色批 joined the game
+[22:19:56] [Server thread/INFO]: sreCP lost connection: Timed out
+[22:19:56] [Server thread/INFO]: sreCP left the game
+[22:20:08] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:20:08] [Server thread/INFO]: 老色批 left the game
+[22:20:11] [Server thread/INFO]: <DITINGmisa> what happened
+[22:20:18] [Server thread/INFO]: 老色批[/112.6.224.44:1056] logged in with entity id 585612 at (27.5, 12.0, 35.69999998807907)
+[22:20:18] [Server thread/INFO]: 老色批 joined the game
+[22:20:19] [Server thread/INFO]: sreCP[/112.6.224.58:57003] logged in with entity id 585637 at (-50.61804947276121, 88.0, -16.031190853525906)
+[22:20:19] [Server thread/INFO]: sreCP joined the game
+[22:20:50] [Server thread/INFO]: 老色批 lost connection: Disconnected
+[22:20:50] [Server thread/INFO]: 老色批 left the game
+[22:20:51] [Server thread/INFO]: sreCP lost connection: Timed out
+[22:20:51] [Server thread/INFO]: sreCP left the game
+[22:21:22] [Server thread/INFO]: 老色批[/112.6.224.44:1101] logged in with entity id 586356 at (27.5, 12.0, 35.69999998807907)
+[22:21:22] [Server thread/INFO]: 老色批 joined the game
+[22:21:48] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:21:48] [Server thread/INFO]: 老色批 left the game
+[22:21:54] [Server thread/INFO]: 老色批[/112.6.224.44:1110] logged in with entity id 586420 at (27.5, 12.0, 35.69999998807907)
+[22:21:54] [Server thread/INFO]: 老色批 joined the game
+[22:28:10] [Server thread/INFO]: 老色批 has made the advancement [Not Today, Thank You]
+[22:45:02] [Server thread/INFO]: 老色批 withered away
+[22:45:47] [Server thread/INFO]: 老色批 lost connection: Timed out
+[22:45:47] [Server thread/INFO]: 老色批 left the game
+[22:46:14] [Server thread/INFO]: DITINGmisa has made the advancement [Ice Bucket Challenge]
+[22:57:13] [Server thread/INFO]: DITINGmisa lost connection: Timed out
+[22:57:13] [Server thread/INFO]: DITINGmisa left the game
+[16:21:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2520ms behind, skipping 50 tick(s)
+[13:26:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7154ms behind, skipping 143 tick(s)
+[18:51:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2228ms behind, skipping 44 tick(s)
+[19:19:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2419ms behind, skipping 48 tick(s)
+[03:10:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2646ms behind, skipping 52 tick(s)
+[13:25:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2569ms behind, skipping 51 tick(s)
+[20:00:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2102ms behind, skipping 42 tick(s)
+[10:00:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2841ms behind, skipping 56 tick(s)
+[02:57:44] [Server thread/INFO]: MoleScans[/86.106.143.75:1958] logged in with entity id 592533 at (-72.5, 88.0, 2.5)
+[02:57:45] [Server thread/INFO]: MoleScans joined the game
+[02:57:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7702ms behind, skipping 154 tick(s)
+[02:58:06] [Server thread/INFO]: MoleScans lost connection: Timed out
+[02:58:06] [Server thread/INFO]: MoleScans left the game
+[04:32:48] [Server thread/INFO]: MoleScanXSHWK[/185.195.232.167:2139] logged in with entity id 593481 at (-71.5, 86.0, -0.5)
+[04:32:48] [Server thread/INFO]: MoleScanXSHWK joined the game
+[04:32:58] [Server thread/INFO]: MoleScanXSHWK lost connection: Disconnected
+[04:32:58] [Server thread/INFO]: MoleScanXSHWK left the game

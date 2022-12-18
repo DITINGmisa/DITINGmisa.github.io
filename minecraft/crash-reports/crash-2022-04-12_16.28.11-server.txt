@@ -1,0 +1,61 @@
+---- Minecraft Crash Report ----
+// I let you down. Sorry :(
+
+Time: 4/12/22 4:28 PM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1483)
+	at on.d(SourceFile:198)
+	at oo.d(SourceFile:206)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:624)
+	at nz.D(SourceFile:349)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:560)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:464)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1483)
+	at on.d(SourceFile:198)
+	at oo.d(SourceFile:206)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 372 Drop: 373
+	Level seed: -7112772135306179195
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (0,0,0), Chunk: (at 0,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 0 game time, 0 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.D(SourceFile:624)
+	at nz.D(SourceFile:349)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:560)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:464)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.18.0-240.1.1.el8_3.x86_64
+	Java Version: 1.8.0_312, Red Hat, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Red Hat, Inc.
+	Memory: 661293360 bytes (630 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
